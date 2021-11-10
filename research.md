@@ -7,11 +7,19 @@ feature_image: "https://annacnelson.github.io/DSC_0685.JPG"
 excerpt: "This."
 ---
 
-I am motivated by problems at the intersection of biology and mathematics, and am interested in modeling and simulating physiological processes such as blood coagulation, intracellular transport, and metabolism. In particular, my research interests include dynamical systems, ordinary and partial differential equations, and parameter estimation.
+I am motivated by problems at the intersection of biology and mathematics, and am interested in modeling and simulating physiological processes such as blood coagulation, flagellar locomotion, and rumen fermentation. In particular, my research interests include dynamical systems, ordinary and partial differential equations, and parameter estimation.
 <hr/>
 ### Publications
-* **A. C. Nelson** and A. L. Fogelson. "Towards understanding the effect of fibrinogen on fibrin gel formation." In preparation. 
-* A. L. Fogelson, **A. C. Nelson**, C. Zapata-Allegro, and J. P. Keener. "Development of fibrin branch structure before and after gelation." Submitted.
-* **A. C. Nelson**, M. A. Kelley, L. M. Haynes, and K. Leiderman. "Using Mathematical Modeling to Understand the Fibrin Polymerization Trifecta: Fibrin(ogen), Thrombin, and FXIII." Submitted.
-* **A. C. Nelson**, J. P. Keener, and A. L. Fogelson. "Kinetic model of two-monomer polymerization". [Physical Review E, 101, 022501 (2020)](https://link.aps.org/doi/10.1103/PhysRevE.101.022501).
+
+* C.K. Buhler, R.S. Terry, **K.G. Link**, and F.R. Adler. “When does adaptive ther- apy work? Comparing cancer treatment strategies across mathematical models and outcome objectives.” Mathematical Biosciences and Engineering,18.5 (2021): 6305-6327. https://doi.org/10.3934/mbe.2021315.
+* K.G. Link, N.A. Danes, M.G. Sorrells, K. Leiderman, K.B. Neeves, A.L. Fogel- son. “A mathematical model of platelet aggregation in an extravascular injury under flow.” Multiscale Model. Simul., 2020;18(4), 1489–1524. https://doi.org/ 10.1137/20M1317785.
+* K.G. Link, M. T. Stobb, D. M. Monroe, A. L. Fogelson, K.B. Neeves, S.S. Sindi, and K. Leiderman. “Computationally Driven Discovery in Coagulation.” Arte- rioscler Thromb Vasc Biol. 2020;40:00–00. https://doi.org/10.1161/ATVBAHA. 120.314648.
+* K.G. Link, M.T. Stobb, M.G. Sorrells, M. Bortot, K. Ruegg, M. J. Manco- Johnson, J.A. Di Paola, S.S. Sindi, A.L. Fogelson, K. Leiderman, K.B. Neeves, “A mathematical model of coagulation under flow identifies factor V as a modifier of thrombin generation in hemophilia A. J Thromb Haemost. 2020;18(2):306-317. https://doi:10.1111/jth.14653.
+* K.G. Link, M.T. Stobb, J.A. Di Paola, K.B. Neeves, A.L. Fogelson, S.S. Sindi, K. Leiderman, “A local and global sensitivity analysis of a mathematical model of coagulation and platelet deposition under flow.” PLOS ONE (2018), 13(7): e0200917. https://doi.org/10.1371/journal.pone.0200917.
+* H.T. Banks, S. Hu, K. Link, E.S. Rosenberg, S. Mitsuma, and L. Rosario, “Mod- eling Immune Response to BK Virus Infection and Donor Kidney in Renal Trans- plant Recipients.” Inverse Problems in Science & Engineering (2016), 24(1): 127-152. https://doi.org/10.1080/17415977.2015.1017484.
+* H.T. Banks, B.E. Banks, K. Link, J.A. Rosenheim, C. Ross, and K.A. Till- man, “Model Comparison Tests to Determine Data Information Content.”Applied Mathematical Letters (2015),43,10-18, https://doi.org/10.1016/j.aml.2014.11.002.
+* H.T. Banks, D.F. Kapraun, K.G. Link, W.C. Thompson, C. Peligero, J. Argi- laguet, A. Meyerhans, “Analysis of Variability in Estimates of Cell Prolifer- ation Parameters for Cyton-Based Models Using CFSE-Based Flow Cytome- try Data.” Journal of Inverse and Ill-posed Problems (2014), 23(2) 135-171, https://doi.org/10.1515/jiip-2013-0065. 
+* T. Huffman, K. Link, J. Nardini, L. Poag, K. Flores, H.T. Banks, B. Blasco, J. Jungfleisch, J. Diez, “A Mathematical Model of RNA3 Recruitment in the Repli- cation Cycle of Brome Mosaic Virus.” International Journal of Pure and Applied Mathematics (2013), 89(2) 251-274, https://doi.org/10.12732/ijpam.v92i1.3.
+* H.T. Banks, S. Hu, M. Joyner, A. Broido, B. Canter, K. Gayvert, K. Link, “A comparison of computational efficiencies of stochastic algorithms in terms of two infection models.” Mathematical Biosciences & Engineering (2011), 9(3) 487-526. https://doi.org/10.3934/mbe.2012.9.487.
+ [Physical Review E, 101, 022501 (2020)](https://link.aps.org/doi/10.1103/PhysRevE.101.022501).
 * J. L. Herlin, **A. Nelson**, and M. Scheepers. "Using ciliate operations to construct chromosome phylogenies". [Involve, Vol. 9, No. 1 (2016)](http://dx.doi.org/10.2140/involve.2016.9.1).
