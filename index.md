@@ -14,3 +14,5 @@ Since Fall 2020, I am a Krener Assistant Professor in the [Department of Mathema
 * Ph.D. in Mathematics, May 2020, [University of Utah](https://www.utah.edu/ "University of Utah")
 * B.A. in Mathematics, May 2012, [Bryn Mawr College](https://www.brynmawr.edu/math "Bryn Mawr College")
 
+<hr/>
+ I am motivated by problems at the intersection of biology and mathematics, and am interested in modeling and simulating physiological processes, such as blood coagulation, flagellar locomotion, and rumen fermentation. In particular, my research interests include dynamical systems, PDEs, and parameter estimation. 
