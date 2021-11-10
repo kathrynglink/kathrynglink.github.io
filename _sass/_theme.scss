@@ -48,7 +48,6 @@ body {
   margin-bottom: 1.6rem;
   text-align: center;
   background: $featureBackgroundColour;
-  color: $featureColour; 
   background-size: cover;
   background-position: center;
   .container {
@@ -87,7 +86,7 @@ body {
 }
 
 .footer {
-  background: $focusColour;
+  background: $headingColour;
   color: $captionColour;
   a {
     color: $captionColour;
@@ -151,7 +150,7 @@ body {
     max-width: 34%;
     margin-left: 4%;
     @include flex(1, 0, auto);
-    opacity: 1;
+    opacity: 0.5;
     transition: opacity .1s;
     .section {
       position: sticky;
@@ -413,7 +412,7 @@ pre code {
 }
 
 ::selection {
-  background: $selectionColour;
+  background: $headingColour;
   color: $backgroundColour;
   text-shadow: none;
 }
