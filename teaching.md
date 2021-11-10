@@ -3,7 +3,7 @@ title:
 layout: page
 feature_text: |
   ## Teaching
-feature_image: "https://annacnelson.github.io/DSC_0114.JPG"
+feature_image: 
 excerpt: "This."
 ---
 
